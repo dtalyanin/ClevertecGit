@@ -3,3 +3,7 @@
 * сделать историю, повторяющую следующую (ниже);
 * запушить на GitHub;
 * вписаться в CleverTask;
+
+<p align="center">
+  <img src="./example.png">
+</p>
