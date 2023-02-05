@@ -5,3 +5,8 @@ body {
 h1 {
    color: #464545;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
